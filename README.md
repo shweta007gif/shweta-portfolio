@@ -1,4 +1,3 @@
-# shweta-portfolio
 
 # Hi, I’m Shweta Sutar 
 
@@ -10,7 +9,7 @@ I have partnered with MNCs and IT consulting organizations to fill mid to senior
 
 ---
 
-## 🔹 Key Skills
+## Key Skills
 - End-to-End IT Recruitment  
 - Boolean Search & Advanced Sourcing  
 - Candidate Screening & Interview Coordination  
@@ -22,14 +21,14 @@ I have partnered with MNCs and IT consulting organizations to fill mid to senior
 
 ---
 
-## 🔹 Certifications
+## Certifications
 - Naukri Maestro - Naukri  
 - Generative AI, Recruiting, and Talent Acquisition – LinkedIn  
 - Learning LinkedIn Recruiter – LinkedIn  
 
 ---
 
-## 🔹 Achievements
+## Achievements
 - Built strong talent pipelines for Cloud, Backend, Frontend, and Data roles  
 - Successfully executed bulk hiring and niche lateral hiring  
 - Partnered with MNCs like Coforge, Synechron, LTTS, and ITC  
@@ -37,10 +36,10 @@ I have partnered with MNCs and IT consulting organizations to fill mid to senior
 
 ---
 
-## 🔹 Contact
-- 📧 Email: mail006sms@gmail.com  
-- 📞 Phone: 7038570710  
-- 🔗 LinkedIn: [linkedin.com/in/shweta-sutar-9022a0202](https://linkedin.com/in/shweta-sutar-9022a0202)  
+## Contact
+- Email: mail006sms@gmail.com  
+- Phone: 7038570710  
+- LinkedIn: [linkedin.com/in/shweta-sutar-9022a0202](https://linkedin.com/in/shweta-sutar-9022a0202)  
 
 ---
 
