@@ -1,13 +1,8 @@
 # shweta-portfolio
-Portfolio for IT Recruitment &amp; Talent Acquisition
-What you should add here is a professional, welcoming, detailed "About Me" page that showcases your skills, experience, and contact info as an IT recruiter.
-Here is a ready-to-copy-and-paste content for your README.md, tailored from your CV and professional profile:
 
-markdown
-Copy code
-# Hi, I’m Shweta Sutar 👋
+# Hi, I’m Shweta Sutar 
 
-**Talent Acquisition Specialist | IT Recruiter | 3.5+ Years Experience**
+**Talent Acquisition Specialist | IT Recruiter | 3.7 Years Experience**
 
 I am an IT Recruiter with 3.5+ years of experience managing **end-to-end recruitment** across IT, Non-IT, Automotive, and BFSI domains. I specialize in sourcing, screening, and hiring niche and high-demand talent using **Boolean search**, **ATS tools**, and advanced sourcing techniques.
 
